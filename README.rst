@@ -1,6 +1,10 @@
 HTTPie: a CLI, cURL-like tool for humans
 ########################################
 
+.. image:: https://badges.staging.guardrails.io/fictional-tribble/jakubroztocil--httpie.svg
+   :alt: GuardRails Staging badge
+   :target: https://www.staging.guardrails.io
+
 HTTPie (pronounced *aitch-tee-tee-pie*) is a command line HTTP client.
 Its goal is to make CLI interaction with web services as human-friendly
 as possible. It provides a simple ``http`` command that allows for sending
